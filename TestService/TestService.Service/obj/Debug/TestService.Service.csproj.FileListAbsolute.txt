@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\TestService\TestService.Service\bin\Debug\TestService.Service.dll
+c:\users\user\documents\visual studio 2015\Projects\TestService\TestService.Service\bin\Debug\TestService.Service.pdb
+c:\users\user\documents\visual studio 2015\Projects\TestService\TestService.Service\bin\Debug\TestService.Contracts.dll
+c:\users\user\documents\visual studio 2015\Projects\TestService\TestService.Service\bin\Debug\TestService.Contracts.pdb
+c:\users\user\documents\visual studio 2015\Projects\TestService\TestService.Service\obj\Debug\TestService.Service.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TestService\TestService.Service\obj\Debug\TestService.Service.dll
+c:\users\user\documents\visual studio 2015\Projects\TestService\TestService.Service\obj\Debug\TestService.Service.pdb
